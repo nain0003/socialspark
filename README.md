@@ -4,20 +4,12 @@
 
 🌐 **Live Demo:** [https://socialspark1-n8z6.onrender.com](https://socialspark1-n8z6.onrender.com)
 
----
-
-## 📸 Preview
-
-<!-- Add a screenshot of your homepage here -->
-![SocialSpark Homepage](./preview.png)
-
----
 
 ## 🚀 About the Project
 
 SocialSpark is a community platform where users can discover and support local social campaigns, small businesses can promote their services, and admins can manage content through an approval workflow.
 
-Built as a university group project across 3 stages — from wireframes and prototype all the way to a fully deployed cloud application.
+Built as a university project across 3 stages — from wireframes and prototype all the way to a fully deployed cloud application.
 
 ---
 
